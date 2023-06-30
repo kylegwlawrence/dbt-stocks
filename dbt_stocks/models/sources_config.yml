@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: staging
+    database: dev  
+    schema: staging
+    tables:
+      - name: stocks
+      - name: mcap
