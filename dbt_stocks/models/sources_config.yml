@@ -6,4 +6,4 @@ sources:
     schema: staging
     tables:
       - name: stocks
-      - name: mcap
+      - name: overview
